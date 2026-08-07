@@ -1,0 +1,174 @@
+{
+    "classes": [
+        {
+            "title": "Roof",
+            "shape": "polygon",
+            "color": "#993300",
+            "geometry_config": {},
+            "id": 4871136,
+            "hotkey": ""
+        },
+        {
+            "title": "Bed",
+            "shape": "polygon",
+            "color": "#008E40",
+            "geometry_config": {},
+            "id": 4871143,
+            "hotkey": ""
+        },
+        {
+            "title": "Obstructions",
+            "shape": "polygon",
+            "color": "#FF0000",
+            "geometry_config": {},
+            "id": 4871142,
+            "hotkey": ""
+        },
+        {
+            "title": "Refrigerator",
+            "shape": "polygon",
+            "color": "#2596BE",
+            "geometry_config": {},
+            "id": 4871132,
+            "hotkey": ""
+        },
+        {
+            "title": "Phone",
+            "shape": "polygon",
+            "color": "#F0C83C",
+            "geometry_config": {},
+            "id": 4871145,
+            "hotkey": ""
+        },
+        {
+            "title": "wall",
+            "shape": "polygon",
+            "color": "#131BAC",
+            "geometry_config": {},
+            "id": 4871134,
+            "hotkey": ""
+        },
+        {
+            "title": "Furniture",
+            "shape": "polygon",
+            "color": "#00FF00",
+            "geometry_config": {},
+            "id": 4871137,
+            "hotkey": ""
+        },
+        {
+            "title": "Electronics",
+            "shape": "polygon",
+            "color": "#660033",
+            "geometry_config": {},
+            "id": 4871150,
+            "hotkey": ""
+        },
+        {
+            "title": "Floor",
+            "shape": "polygon",
+            "color": "#A4F4FC",
+            "geometry_config": {},
+            "id": 4871135,
+            "hotkey": ""
+        },
+        {
+            "title": "Monitor",
+            "shape": "polygon",
+            "color": "#996600",
+            "geometry_config": {},
+            "id": 4871138,
+            "hotkey": ""
+        },
+        {
+            "title": "Cabinet/Almirah",
+            "shape": "polygon",
+            "color": "#929292",
+            "geometry_config": {},
+            "id": 4871139,
+            "hotkey": ""
+        },
+        {
+            "title": "Door",
+            "shape": "polygon",
+            "color": "#00CC99",
+            "geometry_config": {},
+            "id": 4871140,
+            "hotkey": ""
+        },
+        {
+            "title": "Curtain",
+            "shape": "polygon",
+            "color": "#FF3399",
+            "geometry_config": {},
+            "id": 4871141,
+            "hotkey": ""
+        },
+        {
+            "title": "Pillow",
+            "shape": "polygon",
+            "color": "#660066",
+            "geometry_config": {},
+            "id": 4871144,
+            "hotkey": ""
+        },
+        {
+            "title": "Window",
+            "shape": "polygon",
+            "color": "#DC8EFF",
+            "geometry_config": {},
+            "id": 4871146,
+            "hotkey": ""
+        },
+        {
+            "title": "Misc(Rest)",
+            "shape": "polygon",
+            "color": "#DAF013",
+            "geometry_config": {},
+            "id": 4871147,
+            "hotkey": ""
+        },
+        {
+            "title": "Chair",
+            "shape": "polygon",
+            "color": "#7B00F6",
+            "geometry_config": {},
+            "id": 4871148,
+            "hotkey": ""
+        },
+        {
+            "title": "Table",
+            "shape": "polygon",
+            "color": "#E1E199",
+            "geometry_config": {},
+            "id": 4871149,
+            "hotkey": ""
+        },
+        {
+            "title": "Boxes",
+            "shape": "polygon",
+            "color": "#A0A95E",
+            "geometry_config": {},
+            "id": 4871152,
+            "hotkey": ""
+        },
+        {
+            "title": "Bag",
+            "shape": "any",
+            "color": "#7B00F6",
+            "geometry_config": {},
+            "id": 8293957,
+            "hotkey": ""
+        },
+        {
+            "title": "Bottles",
+            "shape": "polygon",
+            "color": "#FF6600",
+            "geometry_config": {},
+            "id": 4871151,
+            "hotkey": ""
+        }
+    ],
+    "tags": [],
+    "projectType": "images"
+}
