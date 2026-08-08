@@ -160,10 +160,16 @@ h2 {
 }
 
 .mask-layer img {
-  width: 200%;
+  position: absolute;
+  inset: 0;
+  width: 100%;
   max-width: none;
   height: 100%;
   object-fit: fill;
+}
+
+.mask-layer img.split-mask-source {
+  width: 200%;
   transform: translateX(-50%);
 }
 
@@ -265,6 +271,7 @@ h2 {
 .sample-grid {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
+  align-items: start;
   gap: 1rem;
   width: min(1180px, calc(100% - 32px));
   margin: 0 auto;
